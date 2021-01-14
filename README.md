@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # JSON with Java EE 8: Hands-on Training [Video]
 JSON with Java EE 8: Hands-on Training, published by Packt
 This is the code repository for [JSON with Java EE 8: Hands-on Training [Video]](https://www.packtpub.com/application-development/json-java-ee-8-hands-training-video?utm_source=github&utm_medium=repository&utm_campaign=9781788834728), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
